@@ -1,0 +1,8 @@
+aws_access_key = "KEY"
+aws_secret_key = "SECRET"
+aws_region     = "REGION"
+mongodbatlas_public_key =
+mongodbatlas_private_key =
+mongodbatlas_org_id =
+mongo_conn_url = "mongodb+srv://user:pass@twizar.ahydr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+http_header_access_control_allow_origin =
